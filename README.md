@@ -1,4 +1,4 @@
-### 🔥 **Forest Fire Prediction - Ridge Regression Flask App**  
+### 🔥 **Algerian Forest Fire Prediction - Ridge Regression Flask App**  
 
 This project is a **Machine Learning-based Flask Web App** that predicts **Fire Weather Index (FWI)** using **Ridge Regression**. The model is trained using **scikit-learn**, and the application is built using **Flask**.  
 
