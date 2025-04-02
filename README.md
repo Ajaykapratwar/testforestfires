@@ -57,7 +57,6 @@ python application.py
 📂 testforestfires
 │── models/                      # Trained models (ridge.pkl, scaler.pkl)
 │── templates/                   # HTML templates (index.html, home.html)
-│── static/                      # CSS, JS files
 │── application.py               # Flask web application
 │── notebook/                    # Jupyter Notebook for model training and model comparison
 │── requirements.txt             # Python dependencies
