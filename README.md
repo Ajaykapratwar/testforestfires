@@ -6,6 +6,7 @@ This project is a **Machine Learning-based Flask Web App** that predicts **Fire 
 
 ## 📌 **Project Overview**  
 
+
 - The **model** is trained to predict **FWI** based on environmental factors like temperature, humidity, wind speed, and rainfall.  
 - The **Flask web app** allows users to input data and get predictions.  
 - The **model uses Ridge Regression**, which helps in reducing overfitting.  
